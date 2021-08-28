@@ -1,7 +1,7 @@
 from pydub import AudioSegment
 
-name1 = "As The World Caves In - Matt Maltese (Cover by Sarah Cothran)"
-name2 = "Ribs"
+name1 = ""
+name2 = ""
 
 sound1 = AudioSegment.from_file(
     name1 + ".mp3", format="mp3")
